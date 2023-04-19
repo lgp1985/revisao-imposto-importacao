@@ -9,7 +9,7 @@ Esse tutorial foi feito pensando no TRF4 (Tribunal Regional Federal da 4ª regi�
 Vale lembrar que o Imposto de Importação - II é devido se o valor da compra mais frete for superior a USD 50 (cinquenta dólares americanos); e o destinatário for pessoa jurídica.
 
 Você não precisa de um advogado, ainda mais que o valor da causa é baixo, o que torna conseguir um ainda mais difícil. Isso é válido por conta do [Princípio do jus postulandi](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_do_jus_postulandi).
-Que no nosso caso se aplica por ser uma causa de valor abaixo de 20 salários mínimos e de competência do juizado especial.
+Que no nosso caso se aplica por ser uma causa de valor abaixo de 20 salários-mínimos e de competência do juizado especial.
 
 ## Pré-requisitos
 
@@ -45,13 +45,13 @@ Escolha o provedor de assinatura como o `Gov.BR`, entre o código recebido por n
 Então salve o PDF assinado digitalmente.
 > Esse processo é equivalente a reconhecer firma em cartório de um documento assinado. E serve para outros documentos que você possa precisar assinar.
 
-## Protoco
+## Protocolo
 Acesse o [eproc](https://eproc.jfpr.jus.br/eprocV2/) _ou o sistema da justiça federal da sua região_. Para fazer o _login_ escolha o `Entrar com gov.br`.
 Siga os passos do _gov.br_ e autorize o acesso à aplicação.
 
 Voltando ao site do _eproc_ você precisará confirmar o seu cadastro como _[jus postulandi](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_do_jus_postulandi)_.
 Verifique seus dados, adicione email de contato, celular/AppMensagens. Marque `sim` para os campos de `Receber prazos por email?`, `Receber inf. da distribuição por email?`, `Usar email para esquecimento de senha?`, `Recebe comunicação via aplicativos de mensagens?`.
->Confirme seu email apertando no enviar notificação, clique no link no email recebido para ativar o email. Afinal se o seu processo progredir e você __não__ for a _audiência virtual_, o processo será __arquivado__!
+>Confirme seu e-mail apertando no enviar notificação, clique no link no e-mail recebido para ativar o e-mail. Afinal se o seu processo progredir e você __não__ for a _audiência virtual_, o processo será __arquivado__!
 
 Então no menu a esquerda ou `☰` superior vá em `Petição inicial`.
 
@@ -68,7 +68,7 @@ Clique em `Incluir` no _Assuntos Selecionados_, e então em `Próxima >`.
 
 ### Partes Autoras
 
-Nas partes autoras entre o seu CPF, clique em `Consutlar`, identifique que é você que foi listado, e `Incluir` e então clique em `Próxima >`.
+Nas partes autoras entre o seu CPF, clique em `Consultar`, identifique que é você que foi listado, e `Incluir` e então clique em `Próxima >`.
 
 ### Partes Rés
 
@@ -85,6 +85,6 @@ Confirme a submissão do seu peticionamento eletrônico na tela modal.
 
 # Próximas etapas
 
-Fique __atento__ ao seu _WhatsApp_ e _email_ cadastrados, em algum tempo um juiz irá apreciar o seu processo e pode vir a agendar uma audiência, onde ele irá confirmar que o que você descreveu dos fatos na sua petição coincidem com você relatando, e dará seguimento.
+Fique __atento__ ao seu _WhatsApp_ e _e-mail_ cadastrados, em algum tempo um juiz irá apreciar o seu processo e pode vir a agendar uma audiência, onde ele irá confirmar que o que você descreveu dos fatos na sua petição coincidem com você relatando, e dará seguimento.
 
 Pedindo dados bancários e meios para realizar o pagamento dos valores a serem devolvidos a você, além de outras instruções.
